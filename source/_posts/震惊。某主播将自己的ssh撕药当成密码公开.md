@@ -7,6 +7,6 @@ title: 震惊。某主播将自己的ssh撕药当成密码公开
 我刚接触ssh。想试试用ssh协议提交
 于是我使用
 
-```
+```shell
 git clone
 ```
